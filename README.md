@@ -23,8 +23,8 @@ Hi, I'm **Mir Javed Jahanger** — a passionate **System Engineer (SOC)** & **Fu
 
 I love to build systems that perform well, look clean, and scale naturally.
 
-💡 *Goal:* Become a Senior System Engineer + DevOps Architect  
-🌱 *Currently Learning:* Cloud, Kubernetes, advanced monitoring, CI/CD  
+💡 *Goal:* Become a Senior System Engineer + DevOps Architect + Full Stack Developer  
+🌱 *Currently Learning:* Cloud, Kubernetes, advanced monitoring, CI/CD , MERN, NODE JS, NEXT JS, REACT JS
 
 ---
 
@@ -108,9 +108,9 @@ Laravel + MySQL
 
 ---
 
-### 🏢 **TOPGEEK AGENCY**  
-Professional digital agency website  
-✔ Laravel + MySQL  
+### 🏢 **Sheba Platform Limited**  
+Professional digital website  
+✔ React + Mongo  
 🔗 https://sheba-platform.xyz/
 
 ---
@@ -161,7 +161,7 @@ Professional digital agency website
 
 <p align="left">
   <a href="mailto:javedmirjeetu.official@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/></a>
-  <a href="https://linkedin.com/in/mirjavedjeetu/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"/></a>
+  <a href="https://linkedin.com/in/mirjavedjeetu001/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"/></a>
   <a href="https://github.com/mirjavedjeetu001"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/></a>
 </p>
 
