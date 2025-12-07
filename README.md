@@ -85,7 +85,7 @@ I love to build systems that perform well, look clean, and scale naturally.
 
 ---
 
-# 🌌 **Showcase Projects** (Portfolio Display)
+# 🌌 **Showcase Projects** 
 
 ### 🌐 **Sheba Platform Engineering Tools**
 Internal dashboards & API monitoring  
@@ -124,7 +124,7 @@ Professional digital agency website
 
 ---
 
-# 📊 **GitHub Analytics (Dark Mode)**
+# 📊 **GitHub Analytics**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mirjavedjeetu001&theme=tokyonight&hide_border=true" height="170" />
@@ -147,7 +147,7 @@ Professional digital agency website
 
 ---
 
-# ⭐ **Testimonials (You Can Replace Later)**
+# ⭐ **Testimonials**
 
 > “Mir Javed is a problem-solving machine — reliable and quick.”  
 > — Team Member  
