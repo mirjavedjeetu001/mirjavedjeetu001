@@ -30,7 +30,7 @@ I love to build systems that perform well, look clean, and scale naturally.
 
 # 🧭 **Career Timeline**
 
-### 🚀 **2023 – Present | System Engineer (SOC), Sheba Platform Limited**
+### 🚀 **2025 – Present | System Engineer (SOC), Sheba Platform Limited**
 - API monitoring, system dashboards  
 - Linux server management  
 - Grafana + Loki observability setup  
@@ -40,7 +40,7 @@ I love to build systems that perform well, look clean, and scale naturally.
 
 ---
 
-### 💼 **2020 – 2023 | Full-Stack Developer**
+### 💼 **2020 – 2024 | QA & Full-Stack Developer**
 **Laravel | Angular | MySQL | REST APIs**
 - Built 10+ production-grade systems  
 - Custom dashboards, admin panels  
