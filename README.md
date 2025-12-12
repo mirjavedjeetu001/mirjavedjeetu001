@@ -17,7 +17,7 @@ Hi, I'm **Mir Javed Jahanger** — a passionate **System Engineer (SOC)** & **Fu
 
 🔥 system monitoring  
 🔥 web development  
-🔥 backend engineering  
+🔥 frontend & backend engineering  
 🔥 debugging and automation  
 🔥 DevOps tools & dashboards  
 
