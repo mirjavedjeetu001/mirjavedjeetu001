@@ -1,6 +1,6 @@
 <!-- Animated Dark Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Mir+Javed+Jahanger!;Project Team Lead (Blockchain & AI);System+Engineer+(SOC);Full+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Systems+%26+Smart+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Mir+Javed+Jahanger!;Project Team Lead +(Blockchain & AI);System+Engineer+(SOC);Full+Stack+Developer;DevOps+Enthusiast;Building+Scalable+Systems+%26+Smart+Solutions" />
 </h1>
 
 <div align="center">
