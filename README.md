@@ -13,7 +13,7 @@
 
 # 🧑‍💻 **About Me**
 
-Hi, I'm **Mir Javed Jahanger** — a passionate **System Engineer (SOC)** & **Full-Stack Developer** with strong skills in:
+Hi, I'm **Mir Javed Jahanger** — a passionate **Project Team Lead(Blockchain & AI)** & **Full-Stack Developer** with strong skills in:
 
 🔥 system monitoring  
 🔥 web development  
