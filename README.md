@@ -3,7 +3,11 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5FF,100:8338EC&height=220&section=header&text=Mir%20Javed%20Jahanger&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Project%20Team%20Lead%20%7C%20Blockchain%20%26%20AI%20%7C%20Full%20Stack%20Engineer&descSize=16&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:00E5FF%2C100:8338EC&height=220&section=header&text=Mir%20Javed%20Jahanger&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Project%20Team%20Lead%20%7C%20Blockchain%20%26%20AI%20%7C%20Full%20Stack%20Engineer&descSize=16&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/217745946?v=4" width="150" height="150" style="border-radius: 50%;" alt="Mir Javed Jahanger" />
 </div>
 
 <h1 align="center">
@@ -82,7 +86,7 @@ I'm a **Project Team Lead** specializing in **Blockchain & AI** — leading team
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Jan 2025<br/>— Jan 2026</b></td>
+    <td align="center"><b>June 2025<br/>— Jan 2026</b></td>
     <td>
       <b>🏢 System Engineer (SOC) — Sheba Platform Limited</b><br/>
       • API monitoring & system dashboards<br/>
@@ -289,7 +293,7 @@ I'm a **Project Team Lead** specializing in **Blockchain & AI** — leading team
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00E5FF,100:8338EC&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C50:00E5FF%2C100:8338EC&height=120&section=footer" width="100%" />
 </div>
 
 <h3 align="center">⚡ Building the future — one block, one model, one deploy at a time. ⚡</h3>
