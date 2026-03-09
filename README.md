@@ -98,9 +98,9 @@ I'm a **Project Team Lead** specializing in **Blockchain & AI** — leading team
     </td>
   </tr>
   <tr>
-    <td align="center"><b>2020<br/>— 2024</b></td>
+    <td align="center"><b>2020<br/>— 2025</b></td>
     <td>
-      <b>💼 QA & Full-Stack Developer</b><br/>
+      <b>💼 QA & Full-Stack Developer- Quantanite</b><br/>
       • Built 10+ production-grade systems (Laravel, Angular, MySQL, REST APIs)<br/>
       • Custom dashboards, admin panels, authentication & role management<br/>
       • Complex query optimization & database design
