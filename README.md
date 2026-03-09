@@ -213,16 +213,16 @@ I'm a **Project Team Lead** specializing in **Blockchain & AI** — leading team
 ## 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/mirjavedjeetu001/bpcl-chain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mirjavedjeetu001&repo=bpcl-chain&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-  <a href="https://github.com/mirjavedjeetu001/RAG-Chatbot-Backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mirjavedjeetu001&repo=RAG-Chatbot-Backend&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+  <a href="https://github.com/mirjavedjeetu001/bpcl-chain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mirjavedjeetu001&repo=bpcl-chain&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+  <a href="https://github.com/mirjavedjeetu001/RAG-Chatbot-Backend"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mirjavedjeetu001&repo=RAG-Chatbot-Backend&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/mirjavedjeetu001/election-poll-2026"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mirjavedjeetu001&repo=election-poll-2026&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-  <a href="https://github.com/mirjavedjeetu001/Bliss-international-academy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mirjavedjeetu001&repo=Bliss-international-academy&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+  <a href="https://github.com/mirjavedjeetu001/election-poll-2026"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mirjavedjeetu001&repo=election-poll-2026&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+  <a href="https://github.com/mirjavedjeetu001/Bliss-international-academy"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mirjavedjeetu001&repo=Bliss-international-academy&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/mirjavedjeetu001/Recruiter-Pulse-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mirjavedjeetu001&repo=Recruiter-Pulse-Frontend&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-  <a href="https://github.com/mirjavedjeetu001/sheba-edtech-school"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mirjavedjeetu001&repo=sheba-edtech-school&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+  <a href="https://github.com/mirjavedjeetu001/Recruiter-Pulse-Frontend"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mirjavedjeetu001&repo=Recruiter-Pulse-Frontend&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+  <a href="https://github.com/mirjavedjeetu001/sheba-edtech-school"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mirjavedjeetu001&repo=sheba-edtech-school&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 </p>
 
 ---
@@ -238,8 +238,8 @@ I'm a **Project Team Lead** specializing in **Blockchain & AI** — leading team
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirjavedjeetu001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirjavedjeetu001&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mirjavedjeetu001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirjavedjeetu001&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" height="160"/>
 </p>
 
 <p align="center">
@@ -255,7 +255,7 @@ I'm a **Project Team Lead** specializing in **Blockchain & AI** — leading team
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirjavedjeetu001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=mirjavedjeetu001&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
 </p>
 
 <p align="center">
